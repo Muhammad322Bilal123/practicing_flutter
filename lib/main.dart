@@ -6,7 +6,7 @@ void main() {
       debugShowCheckedModeBanner: false,
       home: Scaffold(
         appBar: AppBar(title: Text('Scrolling')),
-        body: Text('bilal'),
+        body: Column(children: [Text('b'), Text('i')]),
       ),
     ),
   );
