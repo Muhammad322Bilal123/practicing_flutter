@@ -170,11 +170,7 @@
       "languageVersion": "3.7"
     }
   ],
-<<<<<<< HEAD
-  "generated": "2025-03-15T09:15:06.833402Z",
-=======
-  "generated": "2025-03-15T04:04:32.355042Z",
->>>>>>> 543cd37cc7b8526c0d4e2b2aade5de321f22d40d
+
   "generator": "pub",
   "generatorVersion": "3.7.0",
   "flutterRoot": "file:///home/biiiiai/flutter",
